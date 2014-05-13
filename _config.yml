@@ -1,0 +1,7 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+title: Stephen Saucier
+tagline: 
+description: Blog
+paginate: 5
